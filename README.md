@@ -1,2 +1,1 @@
-# DistilBERT-for-Intent-Detection-Conversation-Message-Classification-with-LLM
-The DistilBERT Fine-Tuning for Intent Detection project uses a pre-trained DistilBERT model for classifying user intents in natural language. It fine-tunes the model on a specific dataset, enhancing its accuracy for applications like chatbots and virtual assistants by improving intent understanding, making it ideal for conversational AI tasks.
+# Fine-Tuning-DistilBERT-for-Intent-Detection-Conversation-Message-Classification-with-LLM
